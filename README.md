@@ -2,6 +2,6 @@
 
 This is a README file. It's in MarkdDown (MD) format, a standard format for coding documentation.
 
-Hi from the class :)
+Yay :D
 
 https://www.markdownguide.org/cheat-sheet/
